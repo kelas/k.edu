@@ -1,4 +1,4 @@
-## k.edu
+## k/edu
 
 a successor to k/simple
 
@@ -14,7 +14,7 @@ a successor to k/simple
 - [ ] add inline lexoparser documentation
 - [ ] organize microbenchmarks (dict+z.z)
 - [ ] add basic binary i/o
-- [ ] demonstrate something meaninful
+- [ ] demonstrate something meaningful
 - [ ] abstract away malloc and avx512
 - [ ] add neon shims
 - [ ] fuzz/sanitize everything
