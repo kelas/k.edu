@@ -8,11 +8,11 @@ a successor to k/simple
 - [ ] produce a warning-free build (clang-15 minimum)
 - [ ] add sane versioning to banner (yyyy.mm.dd)
 - [ ] validate against effbiae's numpy test vectors
-- [ ] document preamble / type system
+- [ ] document preamble and type system
 - [ ] remove wishful thinking from refcard
-- [ ] wire refcard to \
+- [ ] wire refcard to `\`
 - [ ] add inline lexoparser documentation
-- [ ] organize microbenchmarks (dict+z.z)
+- [ ] consolidate microbenchmarks (dict+z.z)
 - [ ] add basic binary i/o
 - [ ] demonstrate something meaningful
 - [ ] abstract away malloc and avx512
