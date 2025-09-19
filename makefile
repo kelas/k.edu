@@ -10,4 +10,4 @@ W2=-Wincompatible-pointer-types
 
 a:?.[ch] makefile
 	clang-15 $W $(W2) -oa ?.c $S -f{unsigned-char,no-unwind-tables} $V $D $I
-	#lldb-14 -o run -- ./a test.k
+	#lldb-14 -o run -- ./a t.k
